@@ -28,7 +28,6 @@ import os
 import itertools
 
 import numba as nb
-import numba.np.unsafe.ndarray
 import numpy as np
 import pandas as pd
 

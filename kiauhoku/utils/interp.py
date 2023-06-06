@@ -29,6 +29,7 @@ import itertools
 
 import numba as nb
 import numpy as np
+import numba.np.unsafe.ndarray
 import pandas as pd
 
 
